@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus.
+  title: Digital Balochistan – Your trusted partner
+  content: Discover Digital Balochistan’s services in digital marketing, SEO, web development, and IT solutions to help your business grow online.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
