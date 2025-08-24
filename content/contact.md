@@ -6,7 +6,7 @@ info:
   title: Why you should contact us!
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@digitalbalochistan.online](mailto:info@digitalbalochistan.online)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "phone: +92 340 8398099"
+    - "Mail: [digitalsolutions327@gmail.com](mailto:digitalsolutions327@gmail.com)"
+    - "Address: Alamdar Road Quetta, Balochistan PAKISTAN"
 ---
